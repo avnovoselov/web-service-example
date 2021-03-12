@@ -5,7 +5,7 @@
 Клонируем репозиторий
 
 ```shell
-git clone ...
+git clone https://github.com/avnovoselov/web-service-example.git
 ```
 
 Устанавливаем и активируем venv
