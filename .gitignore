@@ -1,0 +1,6 @@
+.idea/
+venv/
+trained_model/
+.ipynb_checkpoints/
+
+.env
